@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey!+I'm+Ayush+Tiwari+%F0%9F%91%8B;Full+Stack+Developer;Building+fast%2C+scalable+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey!+I'm+Yushh+%F0%9F%91%8B;Full+Stack+Developer;Building+fast%2C+scalable+apps" alt="Typing SVG" />
 
 <br/>
 
@@ -11,10 +11,9 @@ currently going deeper into **full stack architecture** and **distributed system
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://ayushtwo8.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushtwo8)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushtwo8)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/xDev100)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](https://yushh.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yushhcodes)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yushhcodes)
 
 </div>
 
@@ -44,5 +43,5 @@ currently going deeper into **full stack architecture** and **distributed system
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushtwo8&label=Profile+Views&color=a78bfa&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yushhcodes&label=Profile+Views&color=a78bfa&style=flat-square" alt="profile views" />
 </div>
